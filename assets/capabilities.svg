@@ -1,0 +1,49 @@
+<svg width="900" height="260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a"/>
+      <stop offset="100%" style="stop-color:#1e293b"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="260" rx="10" fill="url(#bg3)"/>
+
+  <!-- Card 1: Voice AI -->
+  <rect x="20" y="20" width="270" height="220" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <rect x="20" y="20" width="270" height="4" rx="2" fill="#8b5cf6"/>
+  <text x="155" y="55" font-family="Segoe UI, sans-serif" font-size="16" fill="white" text-anchor="middle" font-weight="bold">Voice AI Agents</text>
+  <text x="155" y="80" font-family="Segoe UI, sans-serif" font-size="12" fill="#64748b" text-anchor="middle">Agentes de voz com IA no WhatsApp</text>
+  <line x1="60" y1="95" x2="250" y2="95" stroke="#334155" stroke-width="1"/>
+  <text x="40" y="118" font-family="monospace" font-size="11" fill="#94a3b8">Conversacao natural em pt-BR</text>
+  <text x="40" y="138" font-family="monospace" font-size="11" fill="#94a3b8">Agendamento automatico</text>
+  <text x="40" y="158" font-family="monospace" font-size="11" fill="#94a3b8">Transfer para humano</text>
+  <text x="40" y="178" font-family="monospace" font-size="11" fill="#94a3b8">Pipecat / Retell AI</text>
+  <text x="40" y="198" font-family="monospace" font-size="11" fill="#94a3b8">Meta API / WaVoIP / SIP</text>
+  <text x="40" y="218" font-family="monospace" font-size="11" fill="#94a3b8">Custo a partir de R$0.18/min</text>
+
+  <!-- Card 2: SaaS Platform -->
+  <rect x="310" y="20" width="270" height="220" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <rect x="310" y="20" width="270" height="4" rx="2" fill="#3b82f6"/>
+  <text x="445" y="55" font-family="Segoe UI, sans-serif" font-size="16" fill="white" text-anchor="middle" font-weight="bold">SaaS Multi-Tenant</text>
+  <text x="445" y="80" font-family="Segoe UI, sans-serif" font-size="12" fill="#64748b" text-anchor="middle">Plataformas white-label escalaveis</text>
+  <line x1="350" y1="95" x2="540" y2="95" stroke="#334155" stroke-width="1"/>
+  <text x="330" y="118" font-family="monospace" font-size="11" fill="#94a3b8">Isolamento por tenant</text>
+  <text x="330" y="138" font-family="monospace" font-size="11" fill="#94a3b8">Dashboard admin + cliente</text>
+  <text x="330" y="158" font-family="monospace" font-size="11" fill="#94a3b8">Billing e controle de custos</text>
+  <text x="330" y="178" font-family="monospace" font-size="11" fill="#94a3b8">Integracao GHL / CRM</text>
+  <text x="330" y="198" font-family="monospace" font-size="11" fill="#94a3b8">Widget embeddavel (iframe)</text>
+  <text x="330" y="218" font-family="monospace" font-size="11" fill="#94a3b8">Deploy Docker + Traefik</text>
+
+  <!-- Card 3: Security -->
+  <rect x="600" y="20" width="280" height="220" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <rect x="600" y="20" width="280" height="4" rx="2" fill="#ef4444"/>
+  <text x="740" y="55" font-family="Segoe UI, sans-serif" font-size="16" fill="white" text-anchor="middle" font-weight="bold">Application Security</text>
+  <text x="740" y="80" font-family="Segoe UI, sans-serif" font-size="12" fill="#64748b" text-anchor="middle">Pentest e analise de vulnerabilidades</text>
+  <line x1="640" y1="95" x2="840" y2="95" stroke="#334155" stroke-width="1"/>
+  <text x="620" y="118" font-family="monospace" font-size="11" fill="#94a3b8">Web App Pentest (OWASP/PTES)</text>
+  <text x="620" y="138" font-family="monospace" font-size="11" fill="#94a3b8">API Security (REST + GraphQL)</text>
+  <text x="620" y="158" font-family="monospace" font-size="11" fill="#94a3b8">Auth bypass / IDOR / BAC</text>
+  <text x="620" y="178" font-family="monospace" font-size="11" fill="#94a3b8">Burp Suite + custom scripts</text>
+  <text x="620" y="198" font-family="monospace" font-size="11" fill="#94a3b8">Relatorio tecnico + executivo</text>
+  <text x="620" y="218" font-family="monospace" font-size="11" fill="#94a3b8">Grey box / Black box</text>
+</svg>
