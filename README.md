@@ -12,11 +12,6 @@
 
 Founder of **AtendIA Tec** — a dev studio that builds custom AI-powered systems for businesses. Every project is tailored from scratch to the client's workflow, integrations, and goals. From voice AI agents on WhatsApp to full CRM platforms with 130+ features, I architect, develop, secure, and deploy the entire stack.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atendiatec&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&icon_color=3b82f6&title_color=3b82f6" alt="GitHub Stats" width="53%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atendiatec&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&langs_count=6" alt="Top Languages" width="42%">
-</p>
-
 ---
 
 ### What I Build
@@ -98,14 +93,13 @@ Active on [YesWeHack](https://yeswehack.com) bug bounty platform.
 
 ### Open Source
 
-<p>
-  <a href="https://github.com/atendiatec/fastify-multi-tenant-starter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=atendiatec&repo=fastify-multi-tenant-starter&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6" width="49%"></a>
-  <a href="https://github.com/atendiatec/pentest-samples"><img src="https://github-readme-stats.vercel.app/api/pin/?username=atendiatec&repo=pentest-samples&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6" width="49%"></a>
-</p>
-<p>
-  <a href="https://github.com/atendiatec/whatsapp-meta-webhook-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=atendiatec&repo=whatsapp-meta-webhook-template&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6" width="49%"></a>
-  <a href="https://github.com/atendiatec/bullmq-job-patterns"><img src="https://github-readme-stats.vercel.app/api/pin/?username=atendiatec&repo=bullmq-job-patterns&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6" width="49%"></a>
-</p>
+| Repository | What it does |
+|---|---|
+| **[fastify-multi-tenant-starter](https://github.com/atendiatec/fastify-multi-tenant-starter)** | Production-ready multi-tenant SaaS backend — Fastify 5 + Drizzle ORM + JWT + row-level isolation |
+| **[pentest-samples](https://github.com/atendiatec/pentest-samples)** | Sanitized pentest case studies — OWASP/PTES methodology, GraphQL/Firebase/REST API findings |
+| **[whatsapp-meta-webhook-template](https://github.com/atendiatec/whatsapp-meta-webhook-template)** | Meta WhatsApp Cloud API webhook handler — Fastify + TypeScript + HMAC signature validation |
+| **[bullmq-job-patterns](https://github.com/atendiatec/bullmq-job-patterns)** | BullMQ patterns for production — retry with backoff, scheduled sweeps, webhook delivery, rate limiting |
+| **[docker-traefik-ssl-template](https://github.com/atendiatec/docker-traefik-ssl-template)** | Docker Compose + Traefik v3 + Let's Encrypt — reverse proxy with security headers and rate limiting |
 
 ---
 
