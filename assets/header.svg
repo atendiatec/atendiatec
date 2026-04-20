@@ -21,16 +21,14 @@
   <circle cx="150" cy="180" r="70" fill="#10b981" opacity="0.03"/>
   <rect x="0" y="216" width="900" height="4" fill="url(#accent)"/>
   <text x="50" y="65" font-family="monospace" font-size="20" fill="#10b981">$_</text>
-  <text x="50" y="105" font-family="Segoe UI, sans-serif" font-size="42" font-weight="700" fill="white" letter-spacing="-1">AtendIA Tec</text>
-  <text x="50" y="140" font-family="Segoe UI, sans-serif" font-size="20" fill="#94a3b8" font-weight="300">AI Automation</text>
-  <text x="222" y="140" font-family="Segoe UI, sans-serif" font-size="20" fill="#475569">/</text>
-  <text x="240" y="140" font-family="Segoe UI, sans-serif" font-size="20" fill="#94a3b8" font-weight="300">Application Security</text>
-  <text x="510" y="140" font-family="Segoe UI, sans-serif" font-size="20" fill="#475569">/</text>
-  <text x="528" y="140" font-family="Segoe UI, sans-serif" font-size="20" fill="#94a3b8" font-weight="300">SaaS Development</text>
-  <text x="50" y="180" font-family="monospace" font-size="13" fill="#475569">Automacao inteligente para empresas. Seguranca para quem constroi.</text>
+  <text x="50" y="105" font-family="Segoe UI, sans-serif" font-size="42" font-weight="700" fill="white" letter-spacing="-1">Gabriel Tavares</text>
+  <text x="50" y="140" font-family="Segoe UI, sans-serif" font-size="20" fill="#94a3b8" font-weight="300">Full-Stack Developer</text>
+  <text x="275" y="140" font-family="Segoe UI, sans-serif" font-size="20" fill="#475569">/</text>
+  <text x="293" y="140" font-family="Segoe UI, sans-serif" font-size="20" fill="#94a3b8" font-weight="300">Security Researcher</text>
+  <text x="50" y="180" font-family="monospace" font-size="13" fill="#475569">I build custom AI systems and break them before anyone else does.</text>
   <rect x="700" y="55" width="170" height="30" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
   <circle cx="720" cy="70" r="4" fill="#10b981"/>
-  <text x="732" y="74" font-family="monospace" font-size="12" fill="#94a3b8">SaaS em producao</text>
+  <text x="732" y="74" font-family="monospace" font-size="12" fill="#94a3b8">Founder @ AtendIA Tec</text>
   <rect x="700" y="95" width="170" height="30" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1"/>
   <circle cx="720" cy="110" r="4" fill="#3b82f6"/>
   <text x="732" y="114" font-family="monospace" font-size="12" fill="#94a3b8">Voice AI + WhatsApp</text>
